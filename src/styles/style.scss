@@ -94,7 +94,6 @@ textarea {
     padding: 56px 0 45px;
     position: relative;
     &:hover {
-      color: #b6b7ba;
       border-color: $accent;
     }
     &::after {
@@ -423,7 +422,7 @@ textarea {
     }
     & path {
       transition: all .3s ease;
-      fill: #fff;
+      fill: #ffffff;
     }
   }
   &__menu {
